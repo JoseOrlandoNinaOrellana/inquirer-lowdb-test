@@ -1,0 +1,18 @@
+{
+  "playlists": [
+    {
+      "name": "aa",
+      "songs": [
+        "bebesita"
+      ],
+      "duration": 0,
+      "genres": []
+    },
+    {
+      "name": "bb",
+      "songs": [],
+      "duration": 0,
+      "genres": []
+    }
+  ]
+}
